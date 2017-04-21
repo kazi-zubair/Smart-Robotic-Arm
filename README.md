@@ -1,6 +1,6 @@
 # Smart-Robotic-Arm
 
-Hi, This is a robotic arm project using deep learning as its object recognition part. If you want to have a brief idea about the mechanical design and and the equations for FK and IK, please go to this link. https://github.com/zubair-apece/Smart-Robotic-Arm/wiki/Design-,-Inverse-and-forward-kinematics 
+Hi, This is a robotic arm project using deep learning as its object recognition part. I did not have any 3D printing facility at the time I have made this, all of the body is made by 4mm Acrylic sheets. If you want to have a brief idea about the mechanical design and and the equations for FK and IK, please go to this link. https://github.com/zubair-apece/Smart-Robotic-Arm/wiki/Design-,-Inverse-and-forward-kinematics 
 
 The MATLAB codes and data files are added to the repository. The detailed information about the Deep Learning of the system can be found at this paper published based on this work. http://ieeexplore.ieee.org/document/7391914/ 
 
